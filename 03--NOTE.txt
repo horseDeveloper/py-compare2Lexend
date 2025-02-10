@@ -1,0 +1,16 @@
+■■■■■■■■■■■■■■■■■■■■ NOTES ON FONTS ■■■■■■■■■■■■■■■■■■■■
+# Note: Lexend: `ss01`: <Lookup index="40">
+TLDR:
+	keep:    (a) (g)
+	delete:  (i) (j)
+
+
+# Note on ReadexPro
+	# Note: ReadexPro has stylistic sets already divided by glyph substituted (and doesn't need these scripts).
+	# To prepare DffReef, just set `ss03` and `zero` stylistic sets with open-feat-freeze.py.
+	# `ss03` is: character set `i`, <Lookup index="57">
+	# `zero` is: character     `0`, <Lookup index="40">
+
+
+■■■■■■■■■■■■■■■■■■■■ TODO ■■■■■■■■■■■■■■■■■■■■
+TODO: Add full workflow "ttx"
