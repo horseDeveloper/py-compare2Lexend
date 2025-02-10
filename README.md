@@ -4,8 +4,8 @@
 2) Lookup index is already set to `40` for Lexend.
 3) The script compares it to `MY_LIST` (a hardcoded list containing the substitution pairs of the last version of Lexend) and ...
 choose one:
-- 4/a) [py-compare2lexend.py] asks what kind of report the user wants. The user can also save changes to the original file. 
-- 4/b) [py-compare2lexend--noInput.py] outputs a report and saves changes to the original file. 
+- 4/a) ![📥 py-compare2lexend.py](py-compare2lexend.py) asks what kind of report the user wants. The user can also save changes to the original file. 
+- 4/b) ![📥 py-compare2lexend--noInput.py](py-compare2lexend--noInput.py) outputs a report and saves changes to the original file. 
 
 ## WorkFlows using this code
     # WF01: .ttf => .ttx ;; py-compare2lexend;; .ttx ⇒ .ttf ;;
